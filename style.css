@@ -58,7 +58,7 @@ body {
 }
 
 .cont h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: bold;
     background: linear-gradient(to right, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.2));
     -webkit-background-clip: text;
